@@ -1,0 +1,14 @@
+C:\Users\du.luongkhanh\Downloads\dotnet\train\Declare\bin\Debug\net9.0\Declare.exe
+C:\Users\du.luongkhanh\Downloads\dotnet\train\Declare\bin\Debug\net9.0\Declare.deps.json
+C:\Users\du.luongkhanh\Downloads\dotnet\train\Declare\bin\Debug\net9.0\Declare.runtimeconfig.json
+C:\Users\du.luongkhanh\Downloads\dotnet\train\Declare\bin\Debug\net9.0\Declare.dll
+C:\Users\du.luongkhanh\Downloads\dotnet\train\Declare\bin\Debug\net9.0\Declare.pdb
+C:\Users\du.luongkhanh\Downloads\dotnet\train\Declare\obj\Debug\net9.0\Declare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\du.luongkhanh\Downloads\dotnet\train\Declare\obj\Debug\net9.0\Declare.AssemblyInfoInputs.cache
+C:\Users\du.luongkhanh\Downloads\dotnet\train\Declare\obj\Debug\net9.0\Declare.AssemblyInfo.cs
+C:\Users\du.luongkhanh\Downloads\dotnet\train\Declare\obj\Debug\net9.0\Declare.csproj.CoreCompileInputs.cache
+C:\Users\du.luongkhanh\Downloads\dotnet\train\Declare\obj\Debug\net9.0\Declare.dll
+C:\Users\du.luongkhanh\Downloads\dotnet\train\Declare\obj\Debug\net9.0\refint\Declare.dll
+C:\Users\du.luongkhanh\Downloads\dotnet\train\Declare\obj\Debug\net9.0\Declare.pdb
+C:\Users\du.luongkhanh\Downloads\dotnet\train\Declare\obj\Debug\net9.0\Declare.genruntimeconfig.cache
+C:\Users\du.luongkhanh\Downloads\dotnet\train\Declare\obj\Debug\net9.0\ref\Declare.dll
