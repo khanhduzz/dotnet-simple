@@ -1,0 +1,15 @@
+C:\Users\du.luongkhanh\Downloads\dotnet\train\ReverseAndUpper\ReverseAndUpper\bin\Debug\net9.0\ReverseAndUpper.exe
+C:\Users\du.luongkhanh\Downloads\dotnet\train\ReverseAndUpper\ReverseAndUpper\bin\Debug\net9.0\ReverseAndUpper.deps.json
+C:\Users\du.luongkhanh\Downloads\dotnet\train\ReverseAndUpper\ReverseAndUpper\bin\Debug\net9.0\ReverseAndUpper.runtimeconfig.json
+C:\Users\du.luongkhanh\Downloads\dotnet\train\ReverseAndUpper\ReverseAndUpper\bin\Debug\net9.0\ReverseAndUpper.dll
+C:\Users\du.luongkhanh\Downloads\dotnet\train\ReverseAndUpper\ReverseAndUpper\bin\Debug\net9.0\ReverseAndUpper.pdb
+C:\Users\du.luongkhanh\Downloads\dotnet\train\ReverseAndUpper\ReverseAndUpper\obj\Debug\net9.0\ReverseAndUpper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\du.luongkhanh\Downloads\dotnet\train\ReverseAndUpper\ReverseAndUpper\obj\Debug\net9.0\ReverseAndUpper.AssemblyInfoInputs.cache
+C:\Users\du.luongkhanh\Downloads\dotnet\train\ReverseAndUpper\ReverseAndUpper\obj\Debug\net9.0\ReverseAndUpper.AssemblyInfo.cs
+C:\Users\du.luongkhanh\Downloads\dotnet\train\ReverseAndUpper\ReverseAndUpper\obj\Debug\net9.0\ReverseAndUpper.csproj.CoreCompileInputs.cache
+C:\Users\du.luongkhanh\Downloads\dotnet\train\ReverseAndUpper\ReverseAndUpper\obj\Debug\net9.0\ReverseAndUpper.sourcelink.json
+C:\Users\du.luongkhanh\Downloads\dotnet\train\ReverseAndUpper\ReverseAndUpper\obj\Debug\net9.0\ReverseAndUpper.dll
+C:\Users\du.luongkhanh\Downloads\dotnet\train\ReverseAndUpper\ReverseAndUpper\obj\Debug\net9.0\refint\ReverseAndUpper.dll
+C:\Users\du.luongkhanh\Downloads\dotnet\train\ReverseAndUpper\ReverseAndUpper\obj\Debug\net9.0\ReverseAndUpper.pdb
+C:\Users\du.luongkhanh\Downloads\dotnet\train\ReverseAndUpper\ReverseAndUpper\obj\Debug\net9.0\ReverseAndUpper.genruntimeconfig.cache
+C:\Users\du.luongkhanh\Downloads\dotnet\train\ReverseAndUpper\ReverseAndUpper\obj\Debug\net9.0\ref\ReverseAndUpper.dll
