@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\Controllers",
+    "\\Data",
+    "\\Migrations",
+    "\\Models",
+    "\\Models\\Entitites",
+    "\\Properties"
+  ],
+  "SelectedNode": "\\Models\\AddEmployeeDto.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,29 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\Simple\\ASPForSample\\",
+  "WorkspaceRootPath": "C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\train\\ASPForSample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\Simple\\ASPForSample\\ASPForSample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ASPForSample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{BA7220EC-D970-4A36-B3D0-02D25A718B5B}|ASPForSample\\ASPForSample.csproj|c:\\users\\du.luongkhanh\\downloads\\dotnet\\train\\aspforsample\\aspforsample\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA7220EC-D970-4A36-B3D0-02D25A718B5B}|ASPForSample\\ASPForSample.csproj|solutionrelative:aspforsample\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7220EC-D970-4A36-B3D0-02D25A718B5B}|ASPForSample\\ASPForSample.csproj|c:\\users\\du.luongkhanh\\downloads\\dotnet\\train\\aspforsample\\aspforsample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA7220EC-D970-4A36-B3D0-02D25A718B5B}|ASPForSample\\ASPForSample.csproj|solutionrelative:aspforsample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7220EC-D970-4A36-B3D0-02D25A718B5B}|ASPForSample\\ASPForSample.csproj|c:\\users\\du.luongkhanh\\downloads\\dotnet\\train\\aspforsample\\aspforsample\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA7220EC-D970-4A36-B3D0-02D25A718B5B}|ASPForSample\\ASPForSample.csproj|solutionrelative:aspforsample\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_1433/master/sa/SqlTable/dbo.Employees.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\Simple\\ASPForSample\\ASPForSample\\Models\\UpdateEmployeeDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ASPForSample\\Models\\UpdateEmployeeDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA7220EC-D970-4A36-B3D0-02D25A718B5B}|ASPForSample\\ASPForSample.csproj|c:\\users\\du.luongkhanh\\downloads\\dotnet\\train\\aspforsample\\aspforsample\\models\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA7220EC-D970-4A36-B3D0-02D25A718B5B}|ASPForSample\\ASPForSample.csproj|solutionrelative:aspforsample\\models\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\Simple\\ASPForSample\\ASPForSample\\Models\\AddEmployeeDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ASPForSample\\Models\\AddEmployeeDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA7220EC-D970-4A36-B3D0-02D25A718B5B}|ASPForSample\\ASPForSample.csproj|c:\\users\\du.luongkhanh\\downloads\\dotnet\\train\\aspforsample\\aspforsample\\models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA7220EC-D970-4A36-B3D0-02D25A718B5B}|ASPForSample\\ASPForSample.csproj|solutionrelative:aspforsample\\models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\Simple\\ASPForSample\\ASPForSample\\Controllers\\EmployeeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ASPForSample\\Controllers\\EmployeeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\Simple\\ASPForSample\\ASPForSample\\Models\\Entitites\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ASPForSample\\Models\\Entitites\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA7220EC-D970-4A36-B3D0-02D25A718B5B}|ASPForSample\\ASPForSample.csproj|c:\\users\\du.luongkhanh\\downloads\\dotnet\\train\\aspforsample\\aspforsample\\models\\entitites\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA7220EC-D970-4A36-B3D0-02D25A718B5B}|ASPForSample\\ASPForSample.csproj|solutionrelative:aspforsample\\models\\entitites\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,36 +37,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UpdateEmployeeDto.cs",
-              "DocumentMoniker": "C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\Simple\\ASPForSample\\ASPForSample\\Models\\UpdateEmployeeDto.cs",
-              "RelativeDocumentMoniker": "ASPForSample\\Models\\UpdateEmployeeDto.cs",
-              "ToolTip": "C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\Simple\\ASPForSample\\ASPForSample\\Models\\UpdateEmployeeDto.cs",
-              "RelativeToolTip": "ASPForSample\\Models\\UpdateEmployeeDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "HelloController.cs",
+              "DocumentMoniker": "C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\train\\ASPForSample\\ASPForSample\\Controllers\\HelloController.cs",
+              "RelativeDocumentMoniker": "ASPForSample\\Controllers\\HelloController.cs",
+              "ToolTip": "C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\train\\ASPForSample\\ASPForSample\\Controllers\\HelloController.cs*",
+              "RelativeToolTip": "ASPForSample\\Controllers\\HelloController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T10:33:45.495Z"
+              "WhenOpened": "2025-01-15T02:18:39.215Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "dbo.Employees.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_1433/master/sa/SqlTable/dbo.Employees.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/localhost_1433/master/sa/SqlTable/dbo.Employees.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-01-13T10:08:34.242Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\Simple\\ASPForSample\\ASPForSample\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\train\\ASPForSample\\ASPForSample\\appsettings.json",
               "RelativeDocumentMoniker": "ASPForSample\\appsettings.json",
-              "ToolTip": "C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\Simple\\ASPForSample\\ASPForSample\\appsettings.json",
+              "ToolTip": "C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\train\\ASPForSample\\ASPForSample\\appsettings.json",
               "RelativeToolTip": "ASPForSample\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -71,39 +67,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AddEmployeeDto.cs",
-              "DocumentMoniker": "C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\Simple\\ASPForSample\\ASPForSample\\Models\\AddEmployeeDto.cs",
-              "RelativeDocumentMoniker": "ASPForSample\\Models\\AddEmployeeDto.cs",
-              "ToolTip": "C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\Simple\\ASPForSample\\ASPForSample\\Models\\AddEmployeeDto.cs",
-              "RelativeToolTip": "ASPForSample\\Models\\AddEmployeeDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "UpdateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\train\\ASPForSample\\ASPForSample\\Models\\UpdateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "ASPForSample\\Models\\UpdateEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\train\\ASPForSample\\ASPForSample\\Models\\UpdateEmployeeDto.cs",
+              "RelativeToolTip": "ASPForSample\\Models\\UpdateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T10:17:12.155Z"
+              "WhenOpened": "2025-01-13T10:33:45.495Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\Simple\\ASPForSample\\ASPForSample\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "ASPForSample\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\Simple\\ASPForSample\\ASPForSample\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "ASPForSample\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAkwEEAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T10:01:48.094Z"
+              "DocumentIndex": 3,
+              "Title": "dbo.Employees.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_1433/master/sa/SqlTable/dbo.Employees.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/localhost_1433/master/sa/SqlTable/dbo.Employees.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-13T10:08:34.242Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "AddEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\train\\ASPForSample\\ASPForSample\\Models\\AddEmployeeDto.cs",
+              "RelativeDocumentMoniker": "ASPForSample\\Models\\AddEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\train\\ASPForSample\\ASPForSample\\Models\\AddEmployeeDto.cs",
+              "RelativeToolTip": "ASPForSample\\Models\\AddEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:17:12.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\train\\ASPForSample\\ASPForSample\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "ASPForSample\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\train\\ASPForSample\\ASPForSample\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "ASPForSample\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowEEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:01:48.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\Simple\\ASPForSample\\ASPForSample\\Models\\Entitites\\Employee.cs",
+              "DocumentMoniker": "C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\train\\ASPForSample\\ASPForSample\\Models\\Entitites\\Employee.cs",
               "RelativeDocumentMoniker": "ASPForSample\\Models\\Entitites\\Employee.cs",
-              "ToolTip": "C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\Simple\\ASPForSample\\ASPForSample\\Models\\Entitites\\Employee.cs",
+              "ToolTip": "C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\train\\ASPForSample\\ASPForSample\\Models\\Entitites\\Employee.cs",
               "RelativeToolTip": "ASPForSample\\Models\\Entitites\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T06:54:44.489Z"
+              "WhenOpened": "2025-01-13T06:54:44.489Z",
+              "EditorCaption": ""
             }
           ]
         }
