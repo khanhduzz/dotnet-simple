@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yzVSi2jvQh8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\train\\NewtonJson\\NewtonJson\\NewtonJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\du.luongkhanh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
