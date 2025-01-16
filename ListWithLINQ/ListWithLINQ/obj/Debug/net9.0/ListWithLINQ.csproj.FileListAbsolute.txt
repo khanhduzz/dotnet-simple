@@ -1,0 +1,15 @@
+C:\Users\du.luongkhanh\Downloads\dotnet\train\ListWithLINQ\ListWithLINQ\bin\Debug\net9.0\ListWithLINQ.exe
+C:\Users\du.luongkhanh\Downloads\dotnet\train\ListWithLINQ\ListWithLINQ\bin\Debug\net9.0\ListWithLINQ.deps.json
+C:\Users\du.luongkhanh\Downloads\dotnet\train\ListWithLINQ\ListWithLINQ\bin\Debug\net9.0\ListWithLINQ.runtimeconfig.json
+C:\Users\du.luongkhanh\Downloads\dotnet\train\ListWithLINQ\ListWithLINQ\bin\Debug\net9.0\ListWithLINQ.dll
+C:\Users\du.luongkhanh\Downloads\dotnet\train\ListWithLINQ\ListWithLINQ\bin\Debug\net9.0\ListWithLINQ.pdb
+C:\Users\du.luongkhanh\Downloads\dotnet\train\ListWithLINQ\ListWithLINQ\obj\Debug\net9.0\ListWithLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\du.luongkhanh\Downloads\dotnet\train\ListWithLINQ\ListWithLINQ\obj\Debug\net9.0\ListWithLINQ.AssemblyInfoInputs.cache
+C:\Users\du.luongkhanh\Downloads\dotnet\train\ListWithLINQ\ListWithLINQ\obj\Debug\net9.0\ListWithLINQ.AssemblyInfo.cs
+C:\Users\du.luongkhanh\Downloads\dotnet\train\ListWithLINQ\ListWithLINQ\obj\Debug\net9.0\ListWithLINQ.csproj.CoreCompileInputs.cache
+C:\Users\du.luongkhanh\Downloads\dotnet\train\ListWithLINQ\ListWithLINQ\obj\Debug\net9.0\ListWithLINQ.sourcelink.json
+C:\Users\du.luongkhanh\Downloads\dotnet\train\ListWithLINQ\ListWithLINQ\obj\Debug\net9.0\ListWithLINQ.dll
+C:\Users\du.luongkhanh\Downloads\dotnet\train\ListWithLINQ\ListWithLINQ\obj\Debug\net9.0\refint\ListWithLINQ.dll
+C:\Users\du.luongkhanh\Downloads\dotnet\train\ListWithLINQ\ListWithLINQ\obj\Debug\net9.0\ListWithLINQ.pdb
+C:\Users\du.luongkhanh\Downloads\dotnet\train\ListWithLINQ\ListWithLINQ\obj\Debug\net9.0\ListWithLINQ.genruntimeconfig.cache
+C:\Users\du.luongkhanh\Downloads\dotnet\train\ListWithLINQ\ListWithLINQ\obj\Debug\net9.0\ref\ListWithLINQ.dll
