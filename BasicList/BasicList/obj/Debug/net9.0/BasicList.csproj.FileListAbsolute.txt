@@ -1,0 +1,15 @@
+C:\Users\du.luongkhanh\Downloads\dotnet\train\BasicList\BasicList\bin\Debug\net9.0\BasicList.exe
+C:\Users\du.luongkhanh\Downloads\dotnet\train\BasicList\BasicList\bin\Debug\net9.0\BasicList.deps.json
+C:\Users\du.luongkhanh\Downloads\dotnet\train\BasicList\BasicList\bin\Debug\net9.0\BasicList.runtimeconfig.json
+C:\Users\du.luongkhanh\Downloads\dotnet\train\BasicList\BasicList\bin\Debug\net9.0\BasicList.dll
+C:\Users\du.luongkhanh\Downloads\dotnet\train\BasicList\BasicList\bin\Debug\net9.0\BasicList.pdb
+C:\Users\du.luongkhanh\Downloads\dotnet\train\BasicList\BasicList\obj\Debug\net9.0\BasicList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\du.luongkhanh\Downloads\dotnet\train\BasicList\BasicList\obj\Debug\net9.0\BasicList.AssemblyInfoInputs.cache
+C:\Users\du.luongkhanh\Downloads\dotnet\train\BasicList\BasicList\obj\Debug\net9.0\BasicList.AssemblyInfo.cs
+C:\Users\du.luongkhanh\Downloads\dotnet\train\BasicList\BasicList\obj\Debug\net9.0\BasicList.csproj.CoreCompileInputs.cache
+C:\Users\du.luongkhanh\Downloads\dotnet\train\BasicList\BasicList\obj\Debug\net9.0\BasicList.sourcelink.json
+C:\Users\du.luongkhanh\Downloads\dotnet\train\BasicList\BasicList\obj\Debug\net9.0\BasicList.dll
+C:\Users\du.luongkhanh\Downloads\dotnet\train\BasicList\BasicList\obj\Debug\net9.0\refint\BasicList.dll
+C:\Users\du.luongkhanh\Downloads\dotnet\train\BasicList\BasicList\obj\Debug\net9.0\BasicList.pdb
+C:\Users\du.luongkhanh\Downloads\dotnet\train\BasicList\BasicList\obj\Debug\net9.0\BasicList.genruntimeconfig.cache
+C:\Users\du.luongkhanh\Downloads\dotnet\train\BasicList\BasicList\obj\Debug\net9.0\ref\BasicList.dll
