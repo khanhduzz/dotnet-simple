@@ -1,0 +1,15 @@
+C:\Users\du.luongkhanh\Downloads\dotnet\train\AsyncOperation\AsyncOperation\bin\Debug\net8.0\AsyncOperation.exe
+C:\Users\du.luongkhanh\Downloads\dotnet\train\AsyncOperation\AsyncOperation\bin\Debug\net8.0\AsyncOperation.deps.json
+C:\Users\du.luongkhanh\Downloads\dotnet\train\AsyncOperation\AsyncOperation\bin\Debug\net8.0\AsyncOperation.runtimeconfig.json
+C:\Users\du.luongkhanh\Downloads\dotnet\train\AsyncOperation\AsyncOperation\bin\Debug\net8.0\AsyncOperation.dll
+C:\Users\du.luongkhanh\Downloads\dotnet\train\AsyncOperation\AsyncOperation\bin\Debug\net8.0\AsyncOperation.pdb
+C:\Users\du.luongkhanh\Downloads\dotnet\train\AsyncOperation\AsyncOperation\obj\Debug\net8.0\AsyncOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\du.luongkhanh\Downloads\dotnet\train\AsyncOperation\AsyncOperation\obj\Debug\net8.0\AsyncOperation.AssemblyInfoInputs.cache
+C:\Users\du.luongkhanh\Downloads\dotnet\train\AsyncOperation\AsyncOperation\obj\Debug\net8.0\AsyncOperation.AssemblyInfo.cs
+C:\Users\du.luongkhanh\Downloads\dotnet\train\AsyncOperation\AsyncOperation\obj\Debug\net8.0\AsyncOperation.csproj.CoreCompileInputs.cache
+C:\Users\du.luongkhanh\Downloads\dotnet\train\AsyncOperation\AsyncOperation\obj\Debug\net8.0\AsyncOperation.sourcelink.json
+C:\Users\du.luongkhanh\Downloads\dotnet\train\AsyncOperation\AsyncOperation\obj\Debug\net8.0\AsyncOperation.dll
+C:\Users\du.luongkhanh\Downloads\dotnet\train\AsyncOperation\AsyncOperation\obj\Debug\net8.0\refint\AsyncOperation.dll
+C:\Users\du.luongkhanh\Downloads\dotnet\train\AsyncOperation\AsyncOperation\obj\Debug\net8.0\AsyncOperation.pdb
+C:\Users\du.luongkhanh\Downloads\dotnet\train\AsyncOperation\AsyncOperation\obj\Debug\net8.0\AsyncOperation.genruntimeconfig.cache
+C:\Users\du.luongkhanh\Downloads\dotnet\train\AsyncOperation\AsyncOperation\obj\Debug\net8.0\ref\AsyncOperation.dll
