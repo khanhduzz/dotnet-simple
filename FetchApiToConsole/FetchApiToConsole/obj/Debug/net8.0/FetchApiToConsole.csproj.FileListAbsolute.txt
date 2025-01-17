@@ -1,0 +1,15 @@
+C:\Users\du.luongkhanh\Downloads\dotnet\train\FetchApiToConsole\FetchApiToConsole\obj\Debug\net8.0\FetchApiToConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\du.luongkhanh\Downloads\dotnet\train\FetchApiToConsole\FetchApiToConsole\obj\Debug\net8.0\FetchApiToConsole.AssemblyInfoInputs.cache
+C:\Users\du.luongkhanh\Downloads\dotnet\train\FetchApiToConsole\FetchApiToConsole\obj\Debug\net8.0\FetchApiToConsole.AssemblyInfo.cs
+C:\Users\du.luongkhanh\Downloads\dotnet\train\FetchApiToConsole\FetchApiToConsole\obj\Debug\net8.0\FetchApiToConsole.csproj.CoreCompileInputs.cache
+C:\Users\du.luongkhanh\Downloads\dotnet\train\FetchApiToConsole\FetchApiToConsole\obj\Debug\net8.0\FetchApiToConsole.sourcelink.json
+C:\Users\du.luongkhanh\Downloads\dotnet\train\FetchApiToConsole\FetchApiToConsole\bin\Debug\net8.0\FetchApiToConsole.exe
+C:\Users\du.luongkhanh\Downloads\dotnet\train\FetchApiToConsole\FetchApiToConsole\bin\Debug\net8.0\FetchApiToConsole.deps.json
+C:\Users\du.luongkhanh\Downloads\dotnet\train\FetchApiToConsole\FetchApiToConsole\bin\Debug\net8.0\FetchApiToConsole.runtimeconfig.json
+C:\Users\du.luongkhanh\Downloads\dotnet\train\FetchApiToConsole\FetchApiToConsole\bin\Debug\net8.0\FetchApiToConsole.dll
+C:\Users\du.luongkhanh\Downloads\dotnet\train\FetchApiToConsole\FetchApiToConsole\bin\Debug\net8.0\FetchApiToConsole.pdb
+C:\Users\du.luongkhanh\Downloads\dotnet\train\FetchApiToConsole\FetchApiToConsole\obj\Debug\net8.0\FetchApiToConsole.dll
+C:\Users\du.luongkhanh\Downloads\dotnet\train\FetchApiToConsole\FetchApiToConsole\obj\Debug\net8.0\refint\FetchApiToConsole.dll
+C:\Users\du.luongkhanh\Downloads\dotnet\train\FetchApiToConsole\FetchApiToConsole\obj\Debug\net8.0\FetchApiToConsole.pdb
+C:\Users\du.luongkhanh\Downloads\dotnet\train\FetchApiToConsole\FetchApiToConsole\obj\Debug\net8.0\FetchApiToConsole.genruntimeconfig.cache
+C:\Users\du.luongkhanh\Downloads\dotnet\train\FetchApiToConsole\FetchApiToConsole\obj\Debug\net8.0\ref\FetchApiToConsole.dll
