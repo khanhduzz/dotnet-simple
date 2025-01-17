@@ -1,0 +1,15 @@
+C:\Users\du.luongkhanh\Downloads\dotnet\train\TwoAsyncOperation\TwoAsyncOperation\bin\Debug\net8.0\TwoAsyncOperation.exe
+C:\Users\du.luongkhanh\Downloads\dotnet\train\TwoAsyncOperation\TwoAsyncOperation\bin\Debug\net8.0\TwoAsyncOperation.deps.json
+C:\Users\du.luongkhanh\Downloads\dotnet\train\TwoAsyncOperation\TwoAsyncOperation\bin\Debug\net8.0\TwoAsyncOperation.runtimeconfig.json
+C:\Users\du.luongkhanh\Downloads\dotnet\train\TwoAsyncOperation\TwoAsyncOperation\bin\Debug\net8.0\TwoAsyncOperation.dll
+C:\Users\du.luongkhanh\Downloads\dotnet\train\TwoAsyncOperation\TwoAsyncOperation\bin\Debug\net8.0\TwoAsyncOperation.pdb
+C:\Users\du.luongkhanh\Downloads\dotnet\train\TwoAsyncOperation\TwoAsyncOperation\obj\Debug\net8.0\TwoAsyncOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\du.luongkhanh\Downloads\dotnet\train\TwoAsyncOperation\TwoAsyncOperation\obj\Debug\net8.0\TwoAsyncOperation.AssemblyInfoInputs.cache
+C:\Users\du.luongkhanh\Downloads\dotnet\train\TwoAsyncOperation\TwoAsyncOperation\obj\Debug\net8.0\TwoAsyncOperation.AssemblyInfo.cs
+C:\Users\du.luongkhanh\Downloads\dotnet\train\TwoAsyncOperation\TwoAsyncOperation\obj\Debug\net8.0\TwoAsyncOperation.csproj.CoreCompileInputs.cache
+C:\Users\du.luongkhanh\Downloads\dotnet\train\TwoAsyncOperation\TwoAsyncOperation\obj\Debug\net8.0\TwoAsyncOperation.sourcelink.json
+C:\Users\du.luongkhanh\Downloads\dotnet\train\TwoAsyncOperation\TwoAsyncOperation\obj\Debug\net8.0\TwoAsyncOperation.dll
+C:\Users\du.luongkhanh\Downloads\dotnet\train\TwoAsyncOperation\TwoAsyncOperation\obj\Debug\net8.0\refint\TwoAsyncOperation.dll
+C:\Users\du.luongkhanh\Downloads\dotnet\train\TwoAsyncOperation\TwoAsyncOperation\obj\Debug\net8.0\TwoAsyncOperation.pdb
+C:\Users\du.luongkhanh\Downloads\dotnet\train\TwoAsyncOperation\TwoAsyncOperation\obj\Debug\net8.0\TwoAsyncOperation.genruntimeconfig.cache
+C:\Users\du.luongkhanh\Downloads\dotnet\train\TwoAsyncOperation\TwoAsyncOperation\obj\Debug\net8.0\ref\TwoAsyncOperation.dll
