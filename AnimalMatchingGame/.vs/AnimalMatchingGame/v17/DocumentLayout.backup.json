@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\train\\AnimalMatchingGame\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4762CB5-995B-4724-8C9B-48BE54CC7CCC}|AnimalMatchingGame\\AnimalMatchingGame.csproj|c:\\users\\du.luongkhanh\\downloads\\dotnet\\train\\animalmatchinggame\\animalmatchinggame\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4762CB5-995B-4724-8C9B-48BE54CC7CCC}|AnimalMatchingGame\\AnimalMatchingGame.csproj|solutionrelative:animalmatchinggame\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4762CB5-995B-4724-8C9B-48BE54CC7CCC}|AnimalMatchingGame\\AnimalMatchingGame.csproj|c:\\users\\du.luongkhanh\\downloads\\dotnet\\train\\animalmatchinggame\\animalmatchinggame\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D4762CB5-995B-4724-8C9B-48BE54CC7CCC}|AnimalMatchingGame\\AnimalMatchingGame.csproj|solutionrelative:animalmatchinggame\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +31,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\train\\AnimalMatchingGame\\AnimalMatchingGame\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "AnimalMatchingGame\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\train\\AnimalMatchingGame\\AnimalMatchingGame\\MainPage.xaml.cs*",
+              "RelativeToolTip": "AnimalMatchingGame\\MainPage.xaml.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:30:32.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\train\\AnimalMatchingGame\\AnimalMatchingGame\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AnimalMatchingGame\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\du.luongkhanh\\Downloads\\dotnet\\train\\AnimalMatchingGame\\AnimalMatchingGame\\MainPage.xaml",
+              "RelativeToolTip": "AnimalMatchingGame\\MainPage.xaml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwB4AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-22T07:28:38.292Z",
+              "EditorCaption": ""
             }
           ]
         }
